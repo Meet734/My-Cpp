@@ -1,4 +1,4 @@
-//Player vs Computer - Easy level game
+//Player vs Computer
 #include<bits/stdc++.h>
 #define print(n) cout<<n<<endl
 using namespace std;
